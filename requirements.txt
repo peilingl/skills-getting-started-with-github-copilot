@@ -2,5 +2,3 @@ fastapi
 uvicorn
 httpx
 watchfiles
-pytest
-pytest-asyncio
